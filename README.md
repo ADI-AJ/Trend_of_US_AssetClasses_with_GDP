@@ -10,3 +10,8 @@ The reason to take the Russel 3000 Index is because it takes into account a larg
 ### Getting Real Estate Data
 
 Downloaded data in CSV format on quarterly average sales price of houses sold in the United States from 01/01/1990 to 01/07/2023 from [https://fred.stlouisfed.org/series/ASPUS](https://fred.stlouisfed.org/series/ASPUS)
+
+### Getting GDP Data
+
+Downloaded data in CSV format on the GDP in USD of the USA from year 1990 to 2022
+Source => [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=US)
