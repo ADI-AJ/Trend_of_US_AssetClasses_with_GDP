@@ -13,5 +13,5 @@ Downloaded data in CSV format on quarterly average sales price of houses sold in
 
 ### Getting GDP Data
 
-Downloaded data in CSV format on the GDP in USD of the USA from year 1990 to 2022
+Downloaded data in CSV format on the GDP in USD of the USA from year 1990 to 2022.  
 Source => [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=US)
