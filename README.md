@@ -3,7 +3,7 @@
 ## Study the relationship between the **American stock market, real estate, economy and gold prices**.
 
 
-### Getting Data
+### **Getting Data**
 
 #### Stock Market Data
 
