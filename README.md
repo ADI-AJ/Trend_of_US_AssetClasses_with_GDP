@@ -1,4 +1,4 @@
-# Relations of Various Factors with the American Stock Market
+# Relationship of Various Asset Classes in the USA With it's GDP 
 
 ## Study the relationship between the **American stock market, real estate, economy and gold prices**.
 
