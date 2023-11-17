@@ -1,4 +1,4 @@
-# Relationship of Various Asset Classes in the USA With it's GDP 
+# Relationship of various asset classes in the USA with it's GDP 
 
 ## Study the relationship between the **American stock market, real estate, economy and gold prices**.
 
