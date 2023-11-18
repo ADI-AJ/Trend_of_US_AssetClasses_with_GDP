@@ -1,1 +1,0 @@
-api_key = 'goldapi-1knrlov5z0z8-io'
